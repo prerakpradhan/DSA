@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Algorithm
 {
-
+    //This implementation of quick sort picks the pivot as the last element which can lead to bad time complexity
 
     class Quicksort
     {
